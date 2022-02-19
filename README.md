@@ -1,6 +1,5 @@
-<h1 align="center">SpreedSheet and Texy Editor application </h1> 
+<h1 align="center">SpreedSheet and Text Editor Application </h1> 
 
-<h1 align="center"> Homework3:MainApplication-SpreedSheet </h1>
  <p align="center"> <img src="spreedscreen.png" title="SpreedSheet"><br> SpreedSheet</p> 
 
 ## Objective:
