@@ -955,7 +955,7 @@ QString SpreadSheet::strippedName(const QString &fullFileName)
 https://user-images.githubusercontent.com/93345744/146684940-2893a916-240d-4a05-8f2d-e501a6c24bdf.mp4
 
 
- # Second application:Text Editor 
+ <h1 align="center">Second application:Text Editor </h1> 
   <h3 align="center">General Description:</h3>
   <p>In this part we are creating a second application using the designer ,is a simple text editor allow to users to write on it.<br>
   It has tree menubar:File,Edit and Help.<br>The first one has five functionalities : new,open,save,save as and exit.<br>The second have the functionalities of copy/paste/delete...and the last one have information about the QT and he aplication using QMessage Box.<br>
